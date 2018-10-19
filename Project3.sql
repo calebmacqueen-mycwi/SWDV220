@@ -1,3 +1,7 @@
+/* 
+   Caleb MacQueen 10/12/2018 Wrote Initial Script
+   Caleb MacQueen 10/15/2018 Added Modification Log 
+*/
 USE disk_inventory
 GO
 
